@@ -97,10 +97,6 @@ form button:hover {
         margin-top: 30px;
         margin-left: 0px;
     }
-
-
-}
-@media (max-width: 500px) {
     .input-group {
         width: 100%;
     }
